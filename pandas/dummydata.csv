@@ -1,0 +1,21 @@
+ID,Name,Age,Gender,City,Department,Salary,Experience,Performance,Joining_Year
+1,Rahul Sharma,22,Male,Pune,AIML,35000,1,85,2024
+2,Priya Patil,23,Female,Mumbai,CSE,42000,2,90,2023
+3,Amit Kumar,22,Male,Nagpur,AIML,38000,1,78,2024
+4,Neha Singh,24,Female,Pune,IT,40000,3,92,2022
+5,Rohan Joshi,21,Male,Pune,CSE,32000,1,75,2024
+6,Anjali More,25,Female,Nashik,AIML,48000,,88,2021
+7,Vikas Shah,26,Male,Mumbai,IT,52000,4,,2020
+8,Sneha Kulkarni,,Female,Pune,CSE,45000,3,95,2022
+9,Akash Verma,23,Male,Nagpur,AIML,,2,82,2023
+10,Pooja Deshmukh,22,Female,,IT,36000,1,79,2024
+11,Aditya Patil,27,Male,Pune,CSE,60000,5,91,
+12,Kavya Joshi,24,Female,Mumbai,AIML,41000,2,,2023
+13,Saurabh Jadhav,25,Male,Nashik,IT,47000,,86,2021
+14,Meera Shah,,Female,Pune,CSE,39000,2,89,2023
+15,Omkar More,28,Male,Nagpur,AIML,65000,6,94,2019
+16,Shubham Pawar,23,Male,,IT,37000,1,77,2024
+17,Isha Gupta,22,Female,Mumbai,,43000,2,91,2023
+18,Manish Yadav,26,Male,Pune,CSE,,4,84,2021
+19,Riya Kulkarni,24,Female,Nashik,AIML,46000,3,93,
+20,Karan Singh,25,Male,Nagpur,IT,50000,,80,2022

@@ -1,0 +1,21 @@
+ID,Name,Age,Gender,Department,City,Score,Attendance,Status
+1,Rahul Sharma,20,M,AIML,Pune,85,92,Pass
+2,Priya Patil,21,F,Computer,Pune,91,95,Pass
+3,Amit Joshi,20,M,AIML,Mumbai,76,88,Pass
+4,Neha Kulkarni,22,F,IT,Nashik,68,79,Pass
+5,Rohan More,21,M,Computer,Pune,55,72,Pass
+6,Sneha Pawar,20,F,AIML,Nagpur,94,97,Pass
+7,Akash Shinde,23,M,IT,Mumbai,48,65,Fail
+8,Pooja Jadhav,21,F,Computer,Nashik,82,90,Pass
+9,Vishal Patil,22,M,AIML,Pune,73,84,Pass
+10,Anjali Deshmukh,20,F,IT,Nagpur,89,93,Pass
+11,Sachin Chavan,21,M,Computer,Mumbai,61,75,Pass
+12,Kavya More,20,F,AIML,Pune,96,98,Pass
+13,Omkar Pawar,22,M,IT,Nashik,52,69,Fail
+14,Simran Khan,21,F,Computer,Pune,87,91,Pass
+15,Tejas Bhosale,23,M,AIML,Mumbai,71,80,Pass
+16,Komal Wagh,20,F,IT,Nagpur,64,77,Pass
+17,Aditya Kale,21,M,Computer,Pune,45,62,Fail
+18,Rutuja Patil,22,F,AIML,Nashik,90,94,Pass
+19,Saurabh More,20,M,IT,Mumbai,79,86,Pass
+20,Isha Joshi,21,F,Computer,Pune,84,89,Pass
